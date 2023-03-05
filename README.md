@@ -14,4 +14,16 @@
 The biggest challenge I had was realizing that the clean data file I had was not accurate! While trying to create a horizontal bar chart showing the countries that had the most execution over time, I noticed that China's number was way lower than what I had inspected in the raw csv. Over the years, in raw file, China's execution number was denoted by **">1000"**. By digging more into it, I realized that in the cleaning process, this number had been converted to Null, impacting all the statistics and charts. As a result, instead of these values coverting to null and resulting in 0 in Tableau, I put **"1000"** for those values!
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time, I would have looked for more up to dated data, especially the data for Covid 19 statistics. It must be very engaging to know what happened during the pandemic!
+
+Furthermore, I would get more detailed data about the death causes in different age groups and genders.
+
+Last but not least, I would dig more into the data to categorize them into main categories such as:
+
+- Different diseases such as heart-related illnesses or cancer!
+- Natural Disasters
+- Terrorism
+- Suicide and hemocide
+
+
+
