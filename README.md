@@ -6,8 +6,18 @@ Understanding and analyzing the causes of Death all around the world by visualiz
 
 ## Process
 ### - Data Collection
+I decided to go with option 2 and data set number 5 about death causes all around the world
 ### - Cleaning and QA
+As I was analyzing data, I realized that despite having a clean file from kaggle I had to do more data cleaning. I have explained more in Challenges
+### - Questions I answered:
+- How is the death trend over the years?
+- Comparing countries in death statistics
+- Top 10 Death Causes in all countries
+- What are the death causes in Canada and what is the trend in each cause?
+- Execution statistics in top 20 countries
+
 ### - Visulizing and analyzing
+I used Tableau to visualize data
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
